@@ -1,17 +1,28 @@
 # todoEJS
-A simple todo list that let users add or delete items that store on MongoDB (https://todoejs.onrender.com).
 
-## Technologies
-Web technologies: Node.js, Express.js, HTML, CSS
-Database: MongoDB, Mongoose
-Server: Render
+A simple todo list that let users add or delete items that store on MongoDB.
+
 
 ## Installation
-* Node.js installed on Windows/Mac
-* Download the project
-  $ git clone https://github.com/hatatwit/todoEJS.git
-  $ cd PROJECT_TITLE
-  $ npm install
-  $ node app.js
 
+Install Node.js on Windows/Mac
 
+```bash
+$ git clone https://github.com/hatatwit/todoEJS.git
+$ cd todoEJS
+$ npm install
+$ node app.js
+
+```
+
+## Build with
+
+* Web technologies: Node.js, Express.js, HTML, CSS
+
+* Database: MongoDB, Mongoose
+
+* Server: Render
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
