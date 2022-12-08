@@ -11,5 +11,7 @@ Server: Render
 * Download the project
   $ git clone https://github.com/hatatwit/todoEJS.git
   $ cd PROJECT_TITLE
+  $ npm install
+  $ node app.js
 
 
