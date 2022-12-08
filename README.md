@@ -1,7 +1,6 @@
 # todoEJS
 
-A simple todo list that let users add or delete items that store on MongoDB.
-
+A simple to-do list lets users add or delete items stored on MongoDB.
 
 ## Installation
 
