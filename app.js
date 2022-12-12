@@ -1,3 +1,4 @@
+require("dotenv").config();
 const express = require("express");
 const bodyParser = require("body-parser");
 const mongoose = require("mongoose");
@@ -15,7 +16,7 @@ app. set("view engine", "ejs");
 // mongoose.connect("mongodb://localhost:27017/todoDB");
 
 // Connect with Cloud MongoDB
-mongoose.connect("mongodb+srv://hatatwit:admin123456@cluster0.ydwrobg.mongodb.net/todoDB");
+mongoose.connect(process.env.MONGODB_URL);
 
 const itemSchema = mongoose.Schema({
     name: String
