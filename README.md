@@ -10,7 +10,7 @@ Install Node.js on Windows/Mac
 $ git clone https://github.com/hatatwit/todoEJS.git
 $ cd todoEJS
 $ npm install
-$ node app.js
+$ npm start
 
 ```
 
