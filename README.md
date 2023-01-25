@@ -14,13 +14,19 @@ $ npm start
 
 ```
 
+## Demo
+
+Let's check out [TodoEJS](https://todoejs.onrender.com) website!
+
 ## Build with
 
-* Web technologies: Node.js, Express.js, HTML, CSS
-
-* Database: MongoDB, Mongoose
-
-* Server: Render
+* HTML
+* CSS
+* Node.js
+* Express.js
+* MongoDB
+* Mongoose
+* Render
 
 ## License
 
